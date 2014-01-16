@@ -1,0 +1,29 @@
+﻿
+/* REQUIRES */
+
+[ModuleManager Plugin, by Sarbian]
+ - http://forum.kerbalspaceprogram.com/threads/55219
+
+
+
+/* INDEX */
+
+[dromoman.cfg]
+ - ADD DROMOMAN TO R&D TECHTREE
+
+[infernalrobotics.cfg]
+ - ADD INFERNAL ROBOTICS TO R&D TECHTREE
+
+[mechjeb.cfg]
+ - ADD MJ TO COMMAND PODS AND PROBE CORES
+ - REMOVE MJ SUBMODULES R&D TECHTREE RESTRICTION
+
+[remotetech.cfg]
+ - ADD REMOTETECH ANTENNA TO COMMAND PODS
+
+
+
+/* LICENSE */
+
+[CC-BY-SA 4.0]
+ - http://creativecommons.org/licenses/by-sa/4.0/
