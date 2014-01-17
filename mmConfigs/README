@@ -1,29 +1,50 @@
 ﻿
-/* REQUIRES */
-
-[ModuleManager Plugin, by Sarbian]
- - http://forum.kerbalspaceprogram.com/threads/55219
+ AccOns | mmConfigs - README
+ ===========================
 
 
+ /* REQUIRES */
 
-/* INDEX */
-
-[dromoman.cfg]
- - ADD DROMOMAN TO R&D TECHTREE
-
-[infernalrobotics.cfg]
- - ADD INFERNAL ROBOTICS TO R&D TECHTREE
-
-[mechjeb.cfg]
- - ADD MJ TO COMMAND PODS AND PROBE CORES
- - REMOVE MJ SUBMODULES R&D TECHTREE RESTRICTION
-
-[remotetech.cfg]
- - ADD REMOTETECH ANTENNA TO COMMAND PODS
+	[ModuleManager Plugin, by Sarbian]
+	 - http://forum.kerbalspaceprogram.com/threads/55219
 
 
 
-/* LICENSE */
+ /* INDEX */
 
-[CC-BY-SA 4.0]
- - http://creativecommons.org/licenses/by-sa/4.0/
+	[dromoman.cfg]
+	 - ADD DROMOMAN TO R&D TECHTREE
+
+	[infernalrobotics.cfg]
+	 - ADD INFERNAL ROBOTICS TO R&D TECHTREE
+
+	[mechjeb.cfg]
+	 - ADD MJ TO COMMAND PODS AND PROBE CORES
+	 - REMOVE MJ SUBMODULES R&D TECHTREE RESTRICTION
+
+	[remotetech.cfg]
+	 - ADD REMOTETECH ANTENNA TO COMMAND PODS
+
+
+
+ /* META */
+
+ 	[Source]
+	 - Github (https://github.com/assassinacc/accons/tree/master/mmConfigs)
+
+	[License]
+	 - CC-BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+
+	[Author]
+	 - Acc (mail@accapp.net)
+
+
+
+ /* HISTORY */
+
+	[0.1]
+	 - Initial release
+	    + Add: dromoman.cfg
+	    + Add: infernalrobotics.cfg
+	    + Add: mechjeb.cfg
+	    + Add: remotetech.cfg
