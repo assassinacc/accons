@@ -1,0 +1,47 @@
+﻿
+ AccOns | taclsParts - README
+ ============================
+
+
+ /* REQUIRES */
+
+	[TAC Life Support, by TaranisElsu]
+	 - http://forum.kerbalspaceprogram.com/threads/40667
+
+
+
+ /* INDEX */
+
+	[Parts]
+	 - LIFE SUPPORT SERVICE MODULE 125X35
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
+	 - LIFE SUPPORT SERVICE MODULE 250X71
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
+
+	[Models]
+	 - LSSM.DAE (+TEXTURES/TEXTURE.PNG)
+	    + Created with KSP PartGenerator (by Lando, http://forum.kerbalspaceprogram.com/threads/48368)
+
+
+
+ /* META */
+
+ 	[Source]
+	 - Github (https://github.com/assassinacc/accons/tree/master/taclsParts)
+
+	[License]
+	 - CC-BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+
+	[Author]
+	 - Acc (mail@accapp.net)
+
+
+
+ /* HISTORY */
+
+	[0.1]
+	 - Initial release
+	    + Add Part: Life Support Service Module 250X71
+	    + Add Model: lssm
