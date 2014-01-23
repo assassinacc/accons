@@ -13,16 +13,35 @@
  /* INDEX */
 
 	[Parts]
+	 - LIFE SUPPORT SERVICE MODULE 125X18
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
 	 - LIFE SUPPORT SERVICE MODULE 125X35
 	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
 	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
+	 - LIFE SUPPORT SERVICE MODULE 125X71
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
+	 - LIFE SUPPORT SERVICE MODULE 250X35
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
 	 - LIFE SUPPORT SERVICE MODULE 250X71
+	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
+	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
+	 - LIFE SUPPORT SERVICE MODULE 250X142
 	    + Modules: Air Filter (need IntakeAir), Carbon Extractor, Water Purifier, Water Splitter
 	    + Resources: ElectricCharge, Food, Oxygen, Water, WasteWater (empty), CarbonDioxide (empty), Waste (empty)
 
 	[Models]
 	 - LSSM.DAE (+TEXTURES/TEXTURE.PNG)
 	    + Created with KSP PartGenerator (by Lando, http://forum.kerbalspaceprogram.com/threads/48368)
+	    + Texture repainted by Acc
+	 - LSSM_HH.DAE
+	    + Created with KSP PartGenerator (by Lando, http://forum.kerbalspaceprogram.com/threads/48368)
+	    + Half height
+	 - LSSM_DH.DAE
+	    + Created with KSP PartGenerator (by Lando, http://forum.kerbalspaceprogram.com/threads/48368)
+	    + Double height
 
 
 
@@ -41,8 +60,17 @@
 
  /* HISTORY */
 
+	[0.2]
+	 - Four new Parts
+	    + Add Part: Life Support Service Module 125X18
+	    + Add Part: Life Support Service Module 125X71
+	    + Add Part: Life Support Service Module 250X35
+	    + Add Part: Life Support Service Module 250X142
+	    + Add Model: LSSM_HH.dae
+	    + Add Model: LSSM_DH.dae
+
 	[0.1]
 	 - Initial release
 	    + Add Part: Life Support Service Module 125X35
 	    + Add Part: Life Support Service Module 250X71
-	    + Add Model: LSSM
+	    + Add Model: LSSM.dae (+textures/TEXTURE.png)
