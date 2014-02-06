@@ -18,6 +18,9 @@
 	[infernalrobotics.cfg]
 	 - ADD INFERNAL ROBOTICS TO R&D TECHTREE
 
+	[launchcountdown.cfg]
+	 - ADD LAUNCH COUNTDOWN PLUGIN TO ALL LAUNCH CLAMPS
+
 	[mechjeb.cfg]
 	 - ADD MJ TO COMMAND PODS AND PROBE CORES
 	 - REMOVE MJ SUBMODULES R&D TECHTREE RESTRICTION
@@ -41,6 +44,10 @@
 
 
  /* HISTORY */
+
+	[0.2]
+	 - New Config
+	    + Add: launchcountdown.cfg
 
 	[0.1]
 	 - Initial release
